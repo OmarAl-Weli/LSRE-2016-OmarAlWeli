@@ -1,1 +1,1 @@
-Notes here 
+##Seminar 1 notes
