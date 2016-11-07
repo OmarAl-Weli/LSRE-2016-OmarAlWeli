@@ -1,1 +1,1 @@
-##Seminar 1 notes <br/> byline
+##Seminar 1 notes <br/> 
