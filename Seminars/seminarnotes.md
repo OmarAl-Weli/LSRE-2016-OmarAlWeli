@@ -72,6 +72,17 @@ This is done in seven steps:
  
 #Evaluation
 The evaluation was done in industry, with the goal of answering the research question: What are practitioners' views on the utilities of QUPER extended with guidelines including domain-specific examples?
+To evaluate the mode, it was carried out in two parts: 
+* The first evaluation: Qualtative research approach which is in depth semi structured interviewed: the first step was to plan the study and to evaluate the QUPER at the case company and designing the interview insturment. To test out the interview insturment two pilot interview was conducted. Two managers were selected to participate in the first evaluation.
+The second step, the practitioners recieved the detailed practical guidelines that involved in applying the QUPER model in practice continued with semi structured interviews, the purpose of the evaluation was explained and the practitioners answered the self administrated questionaiers. The interview lasted between 40-60 minutes. Finaly, once the interview was done the data was collected and analysied using content analysis.
+* The second evaluation: This evaluation carried out similar steps to the first evaluation but 13 new practitioners and interviews that lasted between 50-65 mintues, as extensive written notes were taken similar to the first evaluaation.
+
+#Results
+The result provided four lessons learned
+ 1. Ease of use: the practitioners agreed that QUPER model was easy to understand and learn, the detailed guidlines work in industrial enviroment.
+ 2. Returns of the three views: the results shows the roadmap view of the model is the most important view as well as the benifit view maybe helpful when specifying quality requirement while the cost view is the least important of the three views, that is because the information of the benifit of the cost views is visualized in the roadmap view.
+ 3. The applicability of cost dependency: the cost dependency was viewed as easy to follow and detailed enough to be applied in practice.
+ 4. Supporting release planning: all practitioners agreed the model improves the understanding of QR and model would improve the decision making process in release planning.
  
 ##*Paper 3*
 
