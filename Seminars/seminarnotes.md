@@ -153,4 +153,6 @@ Finally, the REPEAT process consists of a number of different phases:
 Futhermore, the author describe how REPEAT is applied by partially enacting a scenario.
 
 #*Conclusion*
-
+The REPEAT process reduce the release delay in the Telelogic, additionially, the product quality has increased due correct classification of requirements. 
+However, therr are some challenges tha has been identified such as connecting fragments, overload control, bridging the chasm between selection and elicitation and long term product strategy for a diversity of market segments.. 
+So to overcome these challenges REPEAT-2 was introduced which improves on its predecessor by providing two new techniques: Hierarchical use-case modeling, which help connect requirement fragments, and cost value use case prioritization, which is a more efficent approach to sorting requirements by using smart grouping techniques. 
