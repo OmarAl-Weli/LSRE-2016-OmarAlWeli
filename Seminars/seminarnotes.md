@@ -23,7 +23,7 @@
 
 ###**Paper Summaries**
 
-##*Paper 1*
+##**Paper 1**
 
 A release plan involves all the decisions related to the selection of features for each release to meet the important technical, risk, resource and budget constraint. Therefore, release planning is a very important and integral part of software projects and poor release planning could lead to unsatified customers, faliures to deliver on the project and poor bussiness value. 
 <br/>
@@ -50,16 +50,16 @@ The authors further explain that the art and science of release planning while t
 
 <br/>
 
-##*Paper 2*
+##**Paper 2**
 
-#Overview
+#*Overview*
 The paper is an evaluation of the QUPER model in practice, it focuses on how to handle cost dependencies in relation to quality. The paper illustrate the importance of having concrete guidlines with real practice, since it is not obvious to practitioners how to transfer cost depenedancy examples into the domain example. Finally, they suggest future research is needed to understand this issue.
 
-#Problem 
+#*Problem* 
 Software development companies finds it challenging to set the right quality target in relation to future market demands. Several methods and approaches have been reported in the litterature, however, these technique use generic algorithms, which may not be worth while, if uncertainity in input data has occured.
 Based on the knowledge of the authors of the paper, few studies have looked into startegic release planning of quality requirements. This paper is based on upon previous work that have been done by the author that introduced different aspects of the model as this paper provide detailed practical guidlines of how to apply the model in pracitice, how to incorperate cost dependencies between quality requirements and two new evaluations of the model with 24 professionals at a Rio case complany.
 
-#Solution
+#*Solution*
 The author provides detailed information about QUPER quidlines mode for elicitation for quality requirements, the detailed guidlines introduce a new step of how to identify cost dependencies. As this have a major impact on estimated cost for quality requirements.
 This is done in seven steps:
  1. Identifying candidate QR and thier consequences. 
@@ -70,30 +70,30 @@ This is done in seven steps:
  6. Estimating, proposing, discussing and deciding candidate requirements for coming releases.
  7. Identifing cost dependencies.
  
-#Evaluation
+#*Evaluation*
 The evaluation was done in industry, with the goal of answering the research question: What are practitioners' views on the utilities of QUPER extended with guidelines including domain-specific examples?
 To evaluate the mode, it was carried out in two parts: 
 * The first evaluation: Qualtative research approach which is in depth semi structured interviewed: the first step was to plan the study and to evaluate the QUPER at the case company and designing the interview insturment. To test out the interview insturment two pilot interview was conducted. Two managers were selected to participate in the first evaluation.
 The second step, the practitioners recieved the detailed practical guidelines that involved in applying the QUPER model in practice continued with semi structured interviews, the purpose of the evaluation was explained and the practitioners answered the self administrated questionaiers. The interview lasted between 40-60 minutes. Finaly, once the interview was done the data was collected and analysied using content analysis.
 * The second evaluation: This evaluation carried out similar steps to the first evaluation but 13 new practitioners and interviews that lasted between 50-65 mintues, as extensive written notes were taken similar to the first evaluaation.
 
-#Results
+#*Results*
 The result provided four lessons learned
  1. Ease of use: the practitioners agreed that QUPER model was easy to understand and learn, the detailed guidlines work in industrial enviroment.
  2. Returns of the three views: the results shows the roadmap view of the model is the most important view as well as the benifit view maybe helpful when specifying quality requirement while the cost view is the least important of the three views, that is because the information of the benifit of the cost views is visualized in the roadmap view.
  3. The applicability of cost dependency: the cost dependency was viewed as easy to follow and detailed enough to be applied in practice.
  4. Supporting release planning: all practitioners agreed the model improves the understanding of QR and model would improve the decision making process in release planning.
  
-##*Paper 3*
+##**Paper 3**
 
-#Overview
+#*Overview*
 The paper tackles the issues of balancing the quality of the requirements in market-driven product development and release planning. The paper evaluates a method that have been developed to address the issue of balancing with respect to other dimensions. The authors of the paper suggest the model provides insightful information about quality requirements in the context.
 
-#Problem
+#*Problem*
 With the increase popularity of market-driven product development and release in software industry, the product management role has emerged. Where the role has difficult and complex tasks that includes, applying different decision making that combine market and implementation considerations in release planning. As these decisions consists of different aspects such as what features should be in certain version, when it should be out or released, and at what cost. The lack of good release planning might lead to user rejection for the product and market loss. Thus, the planning of this process is essential to the product success.
 Different models exist to help in the process. However, each of these models has its draw backs. Based on the authors research, very little research has looked into prioritization of quality requirements in release planning. The authors of the paper have developed a quality performance model (QUPER) and report its evaluation in Sony Ericsson.
 
-#Solution 
+#*Solution* 
 The authors of the papers developed the QUPER model. Robust, ease of use and domain relevant were the main goals to guide the development of QUPER model. The development consisted of three steps:
 •	Understanding the different requirements decisions, and the need for a cost-benefit model including quality aspects to support road mapping and scoping.
 •	Based on the input of step one, the model definition was created. As it was defined of three views: benefit, cost, and roadmap views.
@@ -105,13 +105,17 @@ The QUPER model was tailored to Sony Ericsson. The evaluation of the model only 
 •	Identifying the current market expectations using the utility breakpoint against each qualifier.
 •	Identifying and discussing the candidate targets of the coming releases.
 
-#Evaluation
+#*Evaluation*
 The goals of the research are to evaluate the QUPER model in industry, the ease of adopting the method in existing process, and what value the model bring to the release planning. To meet these goals of evaluation interviews have been conducted with representative subjects, followed by workshop, and another interview to assess.
 •	Interview 1: Brainstorming and planning to design the study and the interview. Piloting three interviews with experts from Sony Ericsson. The authors provide information about the questions that carried out of the interview in the paper. The interview however, was semi-structured and individually. The interview sessions took between 20 – 40 minutes.  The analysis consisted of creating categories for interesting parts.
 •	Workshops: How to use QUPER in practice was the goal of the workshops. The participants were collection of requirements engineers and managers. They were provided with reading materials before the workshop and were asked to prepare for it. The workshops took between 60 to 90. The goal was to make sure to know how to use QUPER in comping projects.
 •	Interview 2: Semi-structured interview was used. Individually the QUPER model was discussed with the subjects who were the same subjects in the first interview. The interview took between 25 to 35 minutes. The data from the interview were coded and analyzed.
 
-#Results
+#*Results*
 Three major challenges were identified in the results. A) The acceptance of provided quality level, B) Specification of the quality level, and C) Specifying performance quality that quantifiable, representative, and the conditions that should be fulfilled.
 The results also indicated that the subjects liked the QUPER mode, especially the breakpoints utility. Which helps in understanding higher quality levels when they do not have practical impact on the benefit in particular context. Also it was indicated by the subjects that the model is not only applicable to performance requirements but also can be applied to all quality requirements. All subjects confirmed that CUPOER model was easy to understand and learn. All the subjects confirmed the estimations of performance requirements may be more accurate using the model. All subjects agreed the use of the model improved the decision making especially in release planning. Finally, one subject indicated that QUPER model is especially an important to use when making decisions about what time a product at certain level of quality should be released.
 The challenges that have faced the team in using QUPER are believed will be resolved once the team have used the QUPER model for longer period of time. The evaluation indicated the QUPER model is feasible and relevant to the tested domain and it is applicable to different domains as well. Future research will also include additional evaluation of the model in more areas, subjects, and roles. As well as researching and evaluating other views of the model like the cost view. Finally, a future direction also includes evaluation of the market’s needs, how to use information about the current market to predict future quality levels.
+
+
+##** Paper 4**
+
