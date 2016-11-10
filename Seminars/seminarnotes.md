@@ -25,10 +25,15 @@
 
 ##**Paper 1**
 
-A release plan involves all the decisions related to the selection of features for each release to meet the important technical, risk, resource and budget constraint. Therefore, release planning is a very important and integral part of software projects and poor release planning could lead to unsatified customers, faliures to deliver on the project and poor bussiness value. 
+#*Overview*
+This paper describe release planning and the difficulties assossiciated with it. Furthermore, it describes two approaches for release planning, the art and science of release planning, and thier justifications and challenges. Finally, it describes a hybrid solution for project planning and illustrate how to use that solution. 
+
+#*Problem*
+A release plan involves all the decisions related to the selection of features for each release to meet the important technical, risk, resource and budget constraint. Therefore, release planning is a very important and integral part of software projects and poor release planning could lead to unsatified customers, faliures to deliver on the project and poor bussiness value.
+Furthermore, the authors practical experience is that release planning is done mostly in ad-hoc fashion without sound model or planning, planning is mostly limited to next phase, planning and re-planning is very time and resource consuming and finally selecting and scheduling requirements is not only important for the project it is difficult and complex to do.
 <br/>
+#*Solution*
 The objective of this paper is to describe the art and science of software release planning. According to aurhor, the art of release planning relies on the human element i.e his intuition and capabilities to make the best decisions between conflicting objectives and constraints, while the science of release planning refer the methodologies and systems that yeild best results for release planning.
-<br/>
 There are many challenges involved with release planning, but it mainly relate the cognitive and computational complexity of it.
 To solve these challenges the paper offer two approaches:
 * The first one relies on the human factor it is the art of release planning.
