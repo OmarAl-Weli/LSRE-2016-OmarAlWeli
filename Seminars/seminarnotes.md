@@ -22,3 +22,8 @@
 
 
 ##**Paper Summaries**
+
+#*Paper 1*
+
+The objective of this paper is to describe the art and science of software release planning. According to aurhor, the art of release planning relies on the human element i.e his intuition and capabilities to make the best decisions between conflicting objectives and constraints, while the science of release planning refer the methodologies and systems that yeild best results for release planning.
+
