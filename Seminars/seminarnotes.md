@@ -117,5 +117,21 @@ The results also indicated that the subjects liked the QUPER mode, especially th
 The challenges that have faced the team in using QUPER are believed will be resolved once the team have used the QUPER model for longer period of time. The evaluation indicated the QUPER model is feasible and relevant to the tested domain and it is applicable to different domains as well. Future research will also include additional evaluation of the model in more areas, subjects, and roles. As well as researching and evaluating other views of the model like the cost view. Finally, a future direction also includes evaluation of the market’s needs, how to use information about the current market to predict future quality levels.
 
 
-##** Paper 4**
+##**Paper 4**
 
+#*Overview*
+The papr describe a market driven software engineering process for commercial off the shelf products, called REPEAT. This process is used in house to elcit, select and manage rquiremnt on a family of product called Telelogic Tau. Telelogic Tau is an in house integrated, highly customizable software development enviroment used by a large number of telecomunication companies. The paper describe two iteration of this software, REPEAT-1 and REPEAT-2.
+
+#*REPEAT Process*
+
+REPEAT manages typical requirement activities such as elicitation, documentation and validation throughout a whole release cycle. REPEAT has many actors:
+1. Requierment managment group
+2. Issures
+3. Customers and users
+4. Requirement team
+5. Construction team
+6. Test team
+7. Expert
+8. Requirment database.
+
+Since repeat
