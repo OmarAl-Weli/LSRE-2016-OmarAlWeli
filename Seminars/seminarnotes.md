@@ -6,10 +6,10 @@
  
 2. What are the challenges in large scale requirements engineering?
  1. **Large number of requirements:** The larger the number of requiremnts the more complicated and difficult it will be to analyze, specify and manage.
- 2.**Communication between teams problems:** Since the project require a lot of resources, the number of developers or teams could have adverse effect on communication and collaberation espicially if those teams are distributed.
- 3.**Long implementaion time:** The time it takes to develop these project in some cases are so long that technology could change and public interest could shift.
- 4.**Management of customer expectation:** Since projects with large-scale requirements are usually so large and complex it will be difficult to manage the customer expectation and communication the project progress to them.
- 5.**Limited communication and face time with the customer:** Since the number of requirements is so large, eliciting all the requirements from the customers direcly will require a lot of time and effort.
+ 2. **Communication between teams problems:** Since the project require a lot of resources, the number of developers or teams could have adverse effect on communication and collaberation espicially if those teams are distributed.
+ 3. **Long implementaion time:** The time it takes to develop these project in some cases are so long that technology could change and public interest could shift.
+ 4. **Management of customer expectation:** Since projects with large-scale requirements are usually so large and complex it will be difficult to manage the customer expectation and communication the project progress to them.
+ 5. **Limited communication and face time with the customer:** Since the number of requirements is so large, eliciting all the requirements from the customers direcly will require a lot of time and effort.
  
 3. What is the order of magnitude of the number of requirements we are discussing?
  The sources vary on the number of requirements to be considered large scale, although it does not only depend on the number of requirements it also depends on thier complexity and size of features they describe additionially, the system being developed is also a factor.
