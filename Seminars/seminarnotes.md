@@ -52,6 +52,27 @@ The authors further explain that the art and science of release planning while t
 
 ##*Paper 2*
 
+#Overview
+The paper is an evaluation of the QUPER model in practice, it focuses on how to handle cost dependencies in relation to quality. The paper illustrate the importance of having concrete guidlines with real practice, since it is not obvious to practitioners how to transfer cost depenedancy examples into the domain example. Finally, they suggest future research is needed to understand this issue.
+
+#Problem 
+Software development companies finds it challenging to set the right quality target in relation to future market demands. Several methods and approaches have been reported in the litterature, however, these technique use generic algorithms, which may not be worth while, if uncertainity in input data has occured.
+Based on the knowledge of the authors of the paper, few studies have looked into startegic release planning of quality requirements. This paper is based on upon previous work that have been done by the author that introduced different aspects of the model as this paper provide detailed practical guidlines of how to apply the model in pracitice, how to incorperate cost dependencies between quality requirements and two new evaluations of the model with 24 professionals at a Rio case complany.
+
+#Solution
+The author provides detailed information about QUPER quidlines mode for elicitation for quality requirements, the detailed guidlines introduce a new step of how to identify cost dependencies. As this have a major impact on estimated cost for quality requirements.
+This is done in seven steps:
+ 1. Identifying candidate QR and thier consequences. 
+ 2. Step Two. For each of the seleceted QR define scale and unit measurement to measure the level of quality.
+ 3. For each of the QR, identify reference level to calibrate the estimate and provide objective measures.
+ 4. For each quality requirements ellicit quality breakpoints for the market expectations.
+ 5. Estimate cost barriers for each market expectiation for each quality requirement
+ 6. Estimating, proposing, discussing and deciding candidate requirements for coming releases.
+ 7. Identifing cost dependencies.
+ 
+#Evaluation
+The evaluation was done in industry, with the goal of answering the research question: What are practitioners' views on the utilities of QUPER extended with guidelines including domain-specific examples?
+ 
 ##*Paper 3*
 
 #Overview
