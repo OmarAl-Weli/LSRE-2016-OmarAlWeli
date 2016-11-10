@@ -32,7 +32,15 @@ The objective of this paper is to describe the art and science of software relea
 There are many challenges involved with release planning, but it mainly relate the cognitive and computational complexity of it.
 To solve these challenges the paper offer two approaches:
 * The first one relies on the human factor it is the art of release planning.
+ To justify this approach the author describe release planning as ill-defined problem i.e its solution is not clear. Therefore, release planning in this approach is non-organized and usually done informaly and relies on primitive tools such as spreadsheets.
 * The second one relies on more systematic and repeateable methodologies that is backed by meaningful data.
+ To formalize release planning and make it scientific, and methodical, the author discusses a number of aspects that needs to be formalized while allowing most of the other parts to be carried out ad-hoc, these aspects are:
+ 1. Decision Variables: List of features planned for this release.
+ 2.	Dependencies between features: The dependencies between features can be of two types: the first type is coupling relation and the second type is precedence relation.
+ 3.	Resource Constraints.
+ 4.	Stakeholders
+ 5.	Prioritizing the features
+
 
 <br/>
 The authors further explain that the art and science of release planning while they both have challenges and justifications, they do not conradict but complement each other. To create synergy between them the author proposes a hybrid release planning framework, that is consisted of three phases:
