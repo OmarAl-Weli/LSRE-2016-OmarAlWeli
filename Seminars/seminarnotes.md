@@ -125,13 +125,32 @@ The papr describe a market driven software engineering process for commercial of
 #*REPEAT Process*
 
 REPEAT manages typical requirement activities such as elicitation, documentation and validation throughout a whole release cycle. REPEAT has many actors:
-1. Requierment managment group
-2. Issures
-3. Customers and users
-4. Requirement team
-5. Construction team
-6. Test team
-7. Expert
-8. Requirment database.
+ 1. Requierment managment group
+ 2. Issures
+ 3. Customers and users
+ 4. Requirement team
+ 5. Construction team
+ 6. Test team
+ 7. Expert
+ 8. Requirment database.
 
-Since repeat
+Since REPEAT is continues, each requiremnt that is stored in the requirement database(RQDB) has a life cycle progressing through specified states, and these states are:
+ 1. New: this is when the requirement is issued and assigned priority.
+ 2. Assigned: which is when the requirement is assigned to expert for classification
+ 3. Classified: requirements costs are roughtly estimated.
+ 4. Rejected: an end state that indicates that the requirement will not be implemented
+ 5. Selected: this indicates that the requirement will be implemented and a cirtain priority that results from cost and impact estimation.
+ 6. Applied: an end state that indicate that the requirement is implemented and verified.
+ 
+Finally, the REPEAT process consists of a number of different phases:
+ 1. Elicitation phase: in this phase the requirements are collected and classified. The former is done by the issuer who submits it to the RQDB and gives priority, while the latter is done by an expert who revises it and estimate the cost and impact. 
+ 2. Selection phase: in this phase the requirement is selected for implementaion, specified in more details and validated.
+ 3. Change management phase: in this phase the requirement manager makes decisions on chanigng the requirement document casused by new requirements
+ 4. Construction phase: in this phase the requirement is iteratrd upon, implemented and tested.
+ 5. Verification phase: in this phase the requirement is verified against the requirements document. 
+ 6. Conclusion phase: in this phase, metrics are collected and a final report is written.
+ 
+Futhermore, the author describe how REPEAT is applied by partially enacting a scenario.
+
+#*Conclusion*
+
