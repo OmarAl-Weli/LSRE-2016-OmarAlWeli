@@ -62,13 +62,13 @@ The paper is an evaluation of the QUPER model in practice, it focuses on how to 
 
 #*Problem* 
 Software development companies finds it challenging to set the right quality target in relation to future market demands. Several methods and approaches have been reported in the litterature, however, these technique use generic algorithms, which may not be worth while, if uncertainity in input data has occured.
-Based on the knowledge of the authors of the paper, few studies have looked into startegic release planning of quality requirements. This paper is based on upon previous work that have been done by the author that introduced different aspects of the model as this paper provide detailed practical guidlines of how to apply the model in pracitice, how to incorperate cost dependencies between quality requirements and two new evaluations of the model with 24 professionals at a Rio case complany.
+Based on the knowledge of the authors of the paper, few studies have looked into startegic release planning of quality requirements. This paper is based on upon previous work that have been done by the author that introduced different aspects of the model as this paper provide detailed practical guidlines of how to apply the model in pracitice, how to incorperate cost dependencies between quality requirements and two new evaluations of the model with 24 professionals at a Rio case company.
 
 #*Solution*
-The author provides detailed information about QUPER quidlines mode for elicitation for quality requirements, the detailed guidlines introduce a new step of how to identify cost dependencies. As this have a major impact on estimated cost for quality requirements.
+The author provides detailed information about QUPER quidlines mode for elicitation for quality requirements, the detailed guidlines introduce new steps of how to identify cost dependencies. As this have a major impact on estimated cost for quality requirements.
 This is done in seven steps:
  1. Identifying candidate QR and thier consequences. 
- 2. Step Two. For each of the seleceted QR define scale and unit measurement to measure the level of quality.
+ 2. For each of the seleceted QR, define scale and unit measurement to measure the level of quality.
  3. For each of the QR, identify reference level to calibrate the estimate and provide objective measures.
  4. For each quality requirements ellicit quality breakpoints for the market expectations.
  5. Estimate cost barriers for each market expectiation for each quality requirement
@@ -78,14 +78,14 @@ This is done in seven steps:
 #*Evaluation*
 The evaluation was done in industry, with the goal of answering the research question: What are practitioners' views on the utilities of QUPER extended with guidelines including domain-specific examples?
 To evaluate the mode, it was carried out in two parts: 
-* The first evaluation: Qualtative research approach which is in depth semi structured interviewed: the first step was to plan the study and to evaluate the QUPER at the case company and designing the interview insturment. To test out the interview insturment two pilot interview was conducted. Two managers were selected to participate in the first evaluation.
+* The first evaluation: Qualtative research approach which is in depth semi structured interviews, the first step was to plan the study and to evaluate the QUPER at the case company and designing the interview insturment. To test out the interview insturment two pilot interview was conducted. Two managers were selected to participate in the first evaluation.
 The second step, the practitioners recieved the detailed practical guidelines that involved in applying the QUPER model in practice continued with semi structured interviews, the purpose of the evaluation was explained and the practitioners answered the self administrated questionaiers. The interview lasted between 40-60 minutes. Finaly, once the interview was done the data was collected and analysied using content analysis.
-* The second evaluation: This evaluation carried out similar steps to the first evaluation but 13 new practitioners and interviews that lasted between 50-65 mintues, as extensive written notes were taken similar to the first evaluaation.
+* The second evaluation: This evaluation carried out similar steps to the first evaluation but 13 new practitioners and interviews that lasted between 50-65 mintues, as extensive written notes were taken similar to the first evaluation.
 
 #*Results*
 The result provided four lessons learned
  1. Ease of use: the practitioners agreed that QUPER model was easy to understand and learn, the detailed guidlines work in industrial enviroment.
- 2. Returns of the three views: the results shows the roadmap view of the model is the most important view as well as the benifit view maybe helpful when specifying quality requirement while the cost view is the least important of the three views, that is because the information of the benifit of the cost views is visualized in the roadmap view.
+ 2. Returns of the three views: the results shows the roadmap view of the model is the most important view as well as the benefit view maybe helpful when specifying quality requirement while the cost view is the least important of the three views, that is because the information of the benifit of the cost views is visualized in the roadmap view.
  3. The applicability of cost dependency: the cost dependency was viewed as easy to follow and detailed enough to be applied in practice.
  4. Supporting release planning: all practitioners agreed the model improves the understanding of QR and model would improve the decision making process in release planning.
  
