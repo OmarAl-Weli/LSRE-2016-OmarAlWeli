@@ -29,9 +29,11 @@ A release plan involves all the decisions related to the selection of features f
 <br/>
 The objective of this paper is to describe the art and science of software release planning. According to aurhor, the art of release planning relies on the human element i.e his intuition and capabilities to make the best decisions between conflicting objectives and constraints, while the science of release planning refer the methodologies and systems that yeild best results for release planning.
 <br/>
-There are many challenges involved with release planning, but it mainly relate the cognitive and computational complexity of it. To solve these challenges the paper offer two approaches:
+There are many challenges involved with release planning, but it mainly relate the cognitive and computational complexity of it.
+To solve these challenges the paper offer two approaches:
 * The first one relies on the human factor it is the art of release planning.
 * The second one relies on more systematic and repeateable methodologies that is backed by meaningful data.
+<br/>
 <br/>
 The authors further explain that the art and science of release planning while they both have challenges and justifications, they do not conradict but complement each other. To create synergy between them the author proposes a hybrid release planning framework, that is consisted of three phases:
 1. Modeling the detail of the problem: which has three frameworks and they are, planning objectives, resource allocation and stakeholder voting.
