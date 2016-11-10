@@ -1,6 +1,6 @@
-###**Seminar 1 notes** <br/> 
+###**Seminar 0** <br/> 
 
-1. What is large scale requirements engineering?
+1. What is large scale requirements engineering? <br/>
  Large scale requirement engineering refer to requiremnts engineering for large and complex systems e.g large industrial projects and where managing a complete set of interdependencies is practically unfeasible, but feasible among small bundles of requirements. Although, in some case the requiremnts number is so large that managing complete set of interdependencies among small bundles of requirements become unfeasible in practice.
  
 2. What are the challenges in large scale requirements engineering?
