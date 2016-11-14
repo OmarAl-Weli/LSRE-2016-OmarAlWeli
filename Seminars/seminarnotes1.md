@@ -21,9 +21,9 @@ Jenkins-ci, Codeship, Apache Continuum etc.
   (1)the number of contributors was too few and we communicated face to face daily, therefore we could solve most code conflict without Jenkins.
   (2)Our inexperience with it as a tool and continous integration as a concept e.g. some contributors had not heard of continuous integration before we started the work. 
   
-*5. What is technical product management?*
+*5. What is technical product management?*</br>
 
-*6. what is roadmapping? How can you do it in large scale?</br>
+*6. What is roadmapping? How can you do it in large scale?</br>
 
 Roadmapping is creating a strategy or a long term plan for a project, it provides an overview of the evolving market, competing products and technologies over time[2]. Additionially in software engineering, it provide a high level view of the products and links requirement engineering to the bussiness aspect. A typical roadmap involves the different stakeholders of the project, making decisions, which when followed, the roadmap outcome is reached[3]. For large scale roadmapping to be effective, it must solves large scale project issues[4]. 
 
