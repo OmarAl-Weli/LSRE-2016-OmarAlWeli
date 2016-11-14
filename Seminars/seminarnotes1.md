@@ -1,6 +1,6 @@
-###**Seminar Notes 1**
+#**Seminar Notes 1**
 
-#**Questions and Answers**
+##**Questions and Answers**
 *1. What is GAP analysis?* </br>
 
 GAP analysis is the measure of postive and negative "gaps" between what the customer expect and what the customer recieve/product offers.[1]
@@ -29,12 +29,12 @@ Roadmapping is creating a strategy or a long term plan for a project, it provide
 
 ##**Paper Summeries**
 
-#**Paper 1**</br>
+###**Paper 1**</br>
 
 Gorschek, Tony, and Claes Wohlin. "Requirements abstraction model." Requirements Engineering 11.1 (2006): 79-101.</br>
 
 
-##**References**
+###**References**
 
 [1]Gorschek, Tony, and Alan M. Davis. "Requirements engineering: In search of the dependent variables." Information and Software Technology 50.1 (2008): 67-75.</br>
 
