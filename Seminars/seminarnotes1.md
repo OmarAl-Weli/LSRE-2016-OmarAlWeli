@@ -17,7 +17,7 @@ Jenkins-ci, Codeship, Apache Continuum etc.
   (1)the number of contributors was too few and we communicated face to face daily, therefore we could solve most code conflict without Jenkins.
   (2)Our inexperience with it as a tool and continous integration as a concept e.g. some contributors had not heard of continuous integration before we started the work.
   
-  
+*5. What is technical product management?*
 
 ##**References **
 
