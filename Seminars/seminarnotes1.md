@@ -13,7 +13,11 @@ Internal Value Analaysis is the measure weather a product is in line with a comp
 *4. What tools are available for Continuous Integration?*
 Jenkins-ci, Codeship, Apache Continuum etc.
   * Experience 
-  Jenkins-ci interact with a project on github 
+  I used jenkins-ci before on a project. I created a maven project and used subversion as a code management tool, we used eclipse as an IDE and the code was written in java. Jenkins-ci would give daily builds and reports, and we felt that it hindered our work because we had to deal with on a regular bases and we felt it just added to our workload, most conflicts Jenkins falgged could easily be fixed using subversion alone code merging tool. We came to the conclusion that it did not work in our case because: 
+  (1)the number of contributors was too few and we communicated face to face daily, therefore we could solve most code conflict without Jenkins.
+  (2)Our inexperience with it as a tool and continous integration as a concept e.g. some contributors had not heard of continuous integration before we started the work.
+  
+  
 
 ##**References **
 
