@@ -27,6 +27,12 @@ Jenkins-ci, Codeship, Apache Continuum etc.
 
 Roadmapping is creating a strategy or a long term plan for a project, it provides an overview of the evolving market, competing products and technologies over time[2]. Additionially in software engineering, it provide a high level view of the products and links requirement engineering to the bussiness aspect. A typical roadmap involves the different stakeholders of the project, making decisions, which when followed, the roadmap outcome is reached[3]. For large scale roadmapping to be effective, it must solves large scale project issues[4]. 
 
+##**Paper Summeries**
+
+#**Paper 1**</br>
+
+Gorschek, Tony, and Claes Wohlin. "Requirements abstraction model." Requirements Engineering 11.1 (2006): 79-101.</br>
+
 
 ##**References**
 
