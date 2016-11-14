@@ -41,7 +41,12 @@ In MDRE requirements arrives in various shapes and forms, and on different domai
 
 In incremental market driven products, product supplier need to deliver an optimal subset of requirements for each release. This practice require balancing between a number of variable such as what subset of requirements to release, what time should it be released and what is the cost of these requirements. Which depends on requirement elicitation, analysis and specification.
 Additionialy, in MDRE it is more complicated since requirement does not come from one direction like bespoke, it comes from a lot of different internal and external sources such as customers, competitors, engineers, managers etc. Furthermore, the requirements comes in varying degrees of clarity or coherence, varying levels of abstraction, continuously, directly and indirectly. 
-This problem was identified in industry during a software process improvment venture where an atempt to adapt requirement engineering to more of continuous process.
+This problem is attributed to the phenomenon of moving from project centered development towareds product centred development.
+Finally, the problem was identified in industry during a software process improvment venture where an atempt to adapt requirement engineering to more of continuous process.
+
+####**Solution**
+
+Requierment Abstraction Model or RAM, was developed as a solution to the problem mentioned above and to give product managers a professional working model for planning and developing requirement engineering. Hence, RAM was developed for product centered requirements, supports continuous flow of requirements and requirement engineering effort, dealing with requirement of various levels of abstraction which it support comparison of these requirement, removing absraction from these requirement and adding details and vice versa. 
 
 
 
