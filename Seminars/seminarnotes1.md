@@ -1,4 +1,4 @@
-##**Seminar Notes 1**
+###**Seminar Notes 1**
 
 #**Questions and Answers**
 *1. What is GAP analysis?* </br>
