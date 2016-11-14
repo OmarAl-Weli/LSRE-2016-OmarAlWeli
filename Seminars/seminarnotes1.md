@@ -33,6 +33,17 @@ Roadmapping is creating a strategy or a long term plan for a project, it provide
 
 Gorschek, Tony, and Claes Wohlin. "Requirements abstraction model." Requirements Engineering 11.1 (2006): 79-101.</br>
 
+####**Overview**
+
+In MDRE requirements arrives in various shapes and forms, and on different domains and levels. This paper develops a four level abstraction model to solve this problem. The model is tested and validated at a company and the results points to its usefulness. Finally, the model should be able to allow companies to compare requirements which would be usefull to different activities such as prioritization and packaging.
+
+####**Problem**
+
+In incremental market driven products, product supplier need to deliver an optimal subset of requirements for each release. This practice require balancing between a number of variable such as what subset of requirements to release, what time should it be released and what is the cost of these requirements. Which depends on requirement elicitation, analysis and specification.
+Additionialy, in MDRE it is more complicated since requirement does not come from one direction like bespoke, it comes from a lot of different internal and external sources such as customers, competitors, engineers, managers etc. Furthermore, the requirements comes in varying degrees of clarity or coherence, varying levels of abstraction, continuously, directly and indirectly. 
+This problem was identified in industry during a software process improvment venture where an atempt to adapt requirement engineering to more of continuous process.
+
+
 
 ###**References**
 
