@@ -23,12 +23,12 @@ Jenkins-ci, Codeship, Apache Continuum etc.
   
 *5. What is technical product management?*</br>
 
-*6. What is roadmapping? How can you do it in large scale?</br>
+*6. What is roadmapping? How can you do it in large scale?*</br>
 
 Roadmapping is creating a strategy or a long term plan for a project, it provides an overview of the evolving market, competing products and technologies over time[2]. Additionially in software engineering, it provide a high level view of the products and links requirement engineering to the bussiness aspect. A typical roadmap involves the different stakeholders of the project, making decisions, which when followed, the roadmap outcome is reached[3]. For large scale roadmapping to be effective, it must solves large scale project issues[4]. 
 
 
-##**References **
+##**References**
 
 [1]Gorschek, Tony, and Alan M. Davis. "Requirements engineering: In search of the dependent variables." Information and Software Technology 50.1 (2008): 67-75.</br>
 
