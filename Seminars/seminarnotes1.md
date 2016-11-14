@@ -1,13 +1,13 @@
 ##**Seminar Notes 1**
 
 #**Questions and Answers**
-*1. What is GAP analysis?*
+*1. What is GAP analysis?* </br>
 GAP analysis is the measure of postive and negative "gaps" between what the customer expect and what the customer recieve/product offers.[1]
 
-*2. What is CVA analysis?*
+*2. What is CVA analysis?* </br>
 Customer Value Analysis is measuring the same variable as the GAP analysis but adding a competitor products to the process, and the analysed product is judged upon it's shortcomings in comparison to said competitor products.[1]
 
-*3. What is IVA analysis?*
+*3. What is IVA analysis?* </br>
 Internal Value Analaysis is the measure weather a product is in line with a company's other products or strategies while resource limitation and the company other products in mind.[1]
 
 *4. What tools are available for Continuous Integration?* </br>
