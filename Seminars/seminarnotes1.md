@@ -10,7 +10,7 @@ Customer Value Analysis is measuring the same variable as the GAP analysis but a
 *3. What is IVA analysis?*
 Internal Value Analaysis is the measure weather a product is in line with a company's other products or strategies while resource limitation and the company other products in mind.[1]
 
-*4. What tools are available for Continuous Integration?*
+*4. What tools are available for Continuous Integration?* </br>
 Jenkins-ci, Codeship, Apache Continuum etc.
   * Experience 
   I used jenkins-ci before on a project. I created a maven project and used subversion as a code management tool, we used eclipse as an IDE and the code was written in java. Jenkins-ci would give daily builds and reports, and we felt that it hindered our work because we had to deal with on a regular bases and we felt it just added to our workload, most conflicts Jenkins falgged could easily be fixed using subversion alone code merging tool. We came to the conclusion that it did not work in our case because: 
