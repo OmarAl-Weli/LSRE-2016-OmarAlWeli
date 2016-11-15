@@ -33,22 +33,68 @@ Roadmapping is creating a strategy or a long term plan for a project, it provide
 
 Gorschek, Tony, and Claes Wohlin. "Requirements abstraction model." Requirements Engineering 11.1 (2006): 79-101.</br>
 
-####**Overview**
+####**Overview**</br>
 
 In MDRE requirements arrives in various shapes and forms, and on different domains and levels. This paper develops a four level abstraction model to solve this problem. The model is tested and validated at a company and the results points to its usefulness. Finally, the model should be able to allow companies to compare requirements which would be usefull to different activities such as prioritization and packaging.
 
-####**Problem**
+####**Problem**</br>
 
 In incremental market driven products, product supplier need to deliver an optimal subset of requirements for each release. This practice require balancing between a number of variable such as what subset of requirements to release, what time should it be released and what is the cost of these requirements. Which depends on requirement elicitation, analysis and specification.
 Additionialy, in MDRE it is more complicated since requirement does not come from one direction like bespoke, it comes from a lot of different internal and external sources such as customers, competitors, engineers, managers etc. Furthermore, the requirements comes in varying degrees of clarity or coherence, varying levels of abstraction, continuously, directly and indirectly. 
 This problem is attributed to the phenomenon of moving from project centered development towareds product centred development.
 Finally, the problem was identified in industry during a software process improvment venture where an atempt to adapt requirement engineering to more of continuous process.
 
-####**Solution**
+####**Solution**</br>
 
 Requierment Abstraction Model or RAM, was developed as a solution to the problem mentioned above and to give product managers a professional working model for planning and developing requirement engineering. Hence, RAM was developed for product centered requirements, supports continuous flow of requirements and requirement engineering effort, dealing with requirement of various levels of abstraction which it support comparison of these requirement, removing absraction from these requirement and adding details and vice versa. 
+Finaly, the issues mentioned above were formulated into nine issues, and those nine issues were divided into three separate improvement packages, one of which, RAM was built to address and prepare for the other two. The issues in improvement issue package 1 are:
+ 1. Abstraction level, and content of requirements
+ 2. Roles and responsibilities
+ 3. Requirements upkeep during and post project
 
+####**Results**</br>
 
+Requirement Absraction Model or RAM, was statically and dynamically validated in industry, against an origanization who had the issues mentioned before.</br>
+**Static Validation**</br>
+Since the organization, requirement engineerings role were project focused and not product focused, like the roles in RAM, an identificaton proccess was held before starting the static validation process. After that, two static validation sessions in the form of unstructered interviews were held, each with a different division of roles.
+From the first static validation session, the author identified a problem with the size of the model in terms of details i.e. the model required the requirements to be too detailed, according to the product managers, which could lead to it not being used. Thefore, a trade-off were suggested to make the model good enough and used instead of detailed and complete and unused.
+In addition, the example driven nature of the model enhanced its usability, and the rules/structure of RAM were essential to making in RAM a systematic and repeatable process.
+The second static validation session, provided evidence that RAM produced requirements were refined enough unambiguous and testable. To insure testability, a testability review document was propoesed for the dedicated requirement enigneering effort.</br>
+**Dynamic Validation**</br>
+There were some limitation to doing dynamic validation for RAM, since it is very difficult to do it a continuoues manner, that said there were some benifit to do a dynamic validation, which resulted in some leasons learned:
+ 1. After working up requirement i.e. de abstracting it, the number of requirements doubled.
+ 2. The worked up requirements were able to be campared to the product strategy.
+ 3. Improvement to the input requirements were needed to make sure the requirements were good enough in terms of testability and unambiguity.
+ 4. The overall impression of RAM was postive
+ 
+###**Personal Impression and Experience**</br>
+Overall, the paper was good and well structured. The Requirements Abstraction Model was described in details and the tutorial were excellent and easy to follow, although some part were redundant. The distinction between product focused and project focused software engineering provided a good motivation for create the Requirements Abstraction Model and one I did not and could not make without reading this paper.
+
+###**Paper 2**</br>
+
+Khurum & Gorschek “A method for early requirements triage and selection utilizing product strategies”
+
+####**Overview**</br>
+
+The paper presents a Method for Early requirements Triage and Selection or MERTS, which is a method for selecting requirements that is aligned with the company's strategy as early as possible. This strategy was created to solve a need from industry and is described in this thourghly in this paper and validated in industry.
+
+####**Problem**</br>
+
+In MDRE, there is continues flow of requirements which could overload the development team or organization. In addition, since MDRE is countinuous process, an emphasiss on selection requirement based on product strategies, bussiness goals and overal vision of the company. Moreover, in industry strategy formulation is often done ad-hoc which could lead to spending a lot of resource performing early triage of inappropriate requirements.
+
+####**Solution**</br>
+
+MERTS has two purposes, it guides creating product strategies that take technical and strategic views into accounts and using these strategies to perform requirements triage i.e. selecting the right requirements. To this end the operation of MERTS were divided into three parts:
+ 1. Early requirements triage, this part is divided into three steps to create a product strategy:
+  1. Specify
+  2. Assign Weights
+  3. Compare requirements
+ 2. Requirement selection for release, this part is concerned with time aspect of the strategy and divided into two steps:
+  1. Specify product technology
+  2. Estimate resources
+ 3. Strategy Rationale
+
+####**Results**</br>
 
 ###**References**
 
