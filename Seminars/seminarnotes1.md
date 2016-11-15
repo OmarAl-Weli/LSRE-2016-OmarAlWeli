@@ -86,15 +86,88 @@ In MDRE, there is continues flow of requirements which could overload the develo
 
 MERTS has two purposes, it guides creating product strategies that take technical and strategic views into accounts and using these strategies to perform requirements triage i.e. selecting the right requirements. To this end the operation of MERTS were divided into three parts:
  1. Early requirements triage, this part is divided into three steps to create a product strategy:
-  1. Specify
-  2. Assign Weights
-  3. Compare requirements
+  1. Specify, this steps output an explicit understanding of goals and objectives that can be used to perfom requirement triage.
+  2. Assign Weights, in this steps we assign weights to the answers of step one.
+  3. Compare requirements, in this step the requirements are compared to factors and sub classification to figure out how these requirements contribute to said facors and sub classifications
  2. Requirement selection for release, this part is concerned with time aspect of the strategy and divided into two steps:
-  1. Specify product technology
-  2. Estimate resources
- 3. Strategy Rationale
+  1. Specify product technology roadmap, which means speficying what project achieves in terms of its evolution and technology trends.
+  2. Estimate resources, which is assigning explicit financial and effor estimates to the roadmap.
+ 3. Strategy Rationale, in this part the reason behind the strategy is documented.
 
 ####**Results**</br>
+
+To evalute MERTS two case studies were performed on the development teams of two anonymous telecom companies, in the form of interviews of the strategic and technical manager of each company. The result of the studies are:
+1. MERTS is practical and applicable once understood
+2. Since prequesites of MERTS was not considered in the overhead, MERTS was considered pragmatic and require effort investemnt.
+
+###**Personal Impression and Experience**</br>
+This paper relatively the same issue as the paper before it address, but they arrived to a quite different solution. Overall the paper describe the problem well and reasonably motivate the creaton of MERTS. I found the tutorial to be insufficient and there are some structural choices that I took issues with e.g. the validation is in two sections saparated by the description of solution.
+
+###**Paper 3**</br>
+
+Gorschek & Davis “Requirements Engineering. In search of dependent variables”</br>
+
+####**Overview**</br>
+
+This paper argues that assessing the quality of the product of a software requirement specification or SRS, that results from changing or modifying the requirement engineering process as an independent variable is flawed. This paper propose an alternative for this in the form of a framework of dependent variable which provide a full range of quality assessment for requirement engineering.
+
+####**Problem**</br>
+
+Organization have been trying to improve thier requirement engineering process by assessing the requirement process itself and the product of said requirement process. Based on literature that this paper presents, the result of these assessments are not necessarily proves of the process success. 
+In addition, most software engineering improvement processes adress requirement engineering in terms of developing project and not a product, which this paper provide resources and litarture on. Which this paper argue that the success of the product cannot be determined by examining its development.
+Finally, this paper attempts to find out what are the dependent variables in requirement engineering process.
+
+####**Solution**</br>
+
+There are a number of dependent variables, which are at five distinct levels:
+ 1. Requirement phase, this level include the following dependent variables:
+  1. Requirement cost
+  2. Requiremet quality
+ 2. Project, this level include the following dependent variables
+  1. Project cost and time
+  2. Project estimate
+  3. Degree of requirement change
+ 3. Product, this level include the following dependent variables
+  1. Requirement selection
+  2. Degree of impact
+ 4. Company, this level include the following dependent variables
+  1. Portfolio management
+  2. Strategic alignment
+  3. Degree of impact
+ 5. Society, this level include the following dependent variables
+  1. Positive and negative externalities.
+  
+###**Personal Impression and Experience**</br>
+
+The problem in this is well argued and well researched, and the motivation for the paper is there. The solution is well researched and well argued as well but the paper does not have validation case, it only propose measures for the dependent variables mentioned in the solution which are also well argued and researched.
+
+###**Paper 4**</br>
+
+R. Berntsson Svensson, T. Gorschek, B. Regnell, R. Torkar, A. Shahrokni, R. Feldt (2012) “Quality Requirements in Industrial Practice – an extended interview study at eleven companies”, IEEE Transactions on Software Engineering, vol.38(4), pp. 923-935 </br>
+
+####**Overview**</br>
+
+This paper studies quality requirements and it selection practices, by perforiming an interview study in the industry to find the right balance between functional requirements and quality requirement. 
+
+####**Problem**</br>
+
+Quality requirements are a crucial part of any software product and neglecting them lead to customer dissatisfaction, more expensive software products and increased time to market. However, quality requirement are oftenly missunderstood, poorly specified and stated in an informaly way. 
+This problem is made worse in MDRE, since there more requirements, there are many sources of requirements, requirements comes at different absraction levels etc.
+
+####**Discussion of Results and Solutions**</br>
+
+This paper provide the results of empirical study that involves semi structured interviews of 22 practitioners from 11 companies, these companies serves different markets i.e. Bussiness to Bussiness or B2b and Bussiness to Customers or B2C. The result of these interview is presented by answering the four research questions:
+ 1. The first research question was concerned with finding which quality requirement is the most important according to the practitioners. Although, useability was chosen as the most important quality, although B2B and B2C prioritized different quality requirements.
+ 2. The second research question about what are the most common interdependencies between quaility requirements and functional requirements. They, also found that B2B and B2C prioritise different interdependencies.
+ 3. The third research question was concerned with cost estimation of quality requirements. The study finds that there are no distinction between quality and functional requirement estimation, althoug product managers estimated the cost to be slighly higher than a project leader. The study also finds that there are no difference between B2B and B2C in term of cost estimation of quality requirements in relation to the normal and best scenario.
+ 4. The fourth research question was involved with the dismissal rate of quality requirements and the reasons behind the dismissal, which they list as:
+  1. Poor cost estimation
+  2. Lack of resources
+  3. Quality requirements have lower priority than functional requirements.
+ The study finds that there no major difference between B2B and B2C companies in terms of why quality requirements are dismissed.
+ 
+###**Personal Impression and Experience**</br>
+The paper was very informative of how to conduct a qualitative research and of the companies handle quality requirements in general. This paper descibed every steps in details, therefore it made easy to understand and follow.
 
 ###**References**
 
