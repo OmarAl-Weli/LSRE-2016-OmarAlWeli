@@ -55,11 +55,13 @@ Finaly, the issues mentioned above were formulated into nine issues, and those n
 ####**Results**</br>
 
 Requirement Absraction Model or RAM, was statically and dynamically validated in industry, against an origanization who had the issues mentioned before.</br>
+
 **Static Validation**</br>
 Since the organization, requirement engineerings role were project focused and not product focused, like the roles in RAM, an identificaton proccess was held before starting the static validation process. After that, two static validation sessions in the form of unstructered interviews were held, each with a different division of roles.
 From the first static validation session, the author identified a problem with the size of the model in terms of details i.e. the model required the requirements to be too detailed, according to the product managers, which could lead to it not being used. Thefore, a trade-off were suggested to make the model good enough and used instead of detailed and complete and unused.
 In addition, the example driven nature of the model enhanced its usability, and the rules/structure of RAM were essential to making in RAM a systematic and repeatable process.
 The second static validation session, provided evidence that RAM produced requirements were refined enough unambiguous and testable. To insure testability, a testability review document was propoesed for the dedicated requirement enigneering effort.</br>
+
 **Dynamic Validation**</br>
 There were some limitation to doing dynamic validation for RAM, since it is very difficult to do it a continuoues manner, that said there were some benifit to do a dynamic validation, which resulted in some leasons learned:
  1. After working up requirement i.e. de abstracting it, the number of requirements doubled.
@@ -197,7 +199,7 @@ The Cost Value Approach is validated in industry in two case studies:
 The CVA was used instead of a previous approach that the author used and found ineffective. 14 requirements were ultimate chosen to be prioritized. Customers were represented by experience project members, while actual experienced software engineer represented experienced software engineers. The participant worked in groups of two, the work was not moderated and discussion was allowed. After that value and cost distribution, as well the consistency indices and ratios, were calculated and plotted.
 Finally, the requirements were categorized in three categories: high, medium and low priority. Based on this and cost-value diagram, software managers were able to accurately prioritized and select requirements.
 **Case Study 2** </br>
-The second case study was done on 4th release of an already deployed product, therefore some of the requirement could not be prioritized since they were faults in the systems and performance issues. The Cost-Value Approach was used to prioritized 11 high level functional requirements, and the prioritization effort was done by project members who did the pairwise comparison for each criteria.  Finally, the requirements were categorized into three categories: high, medium and low priority. 
+The second case study was done on 4th release of an already deployed product, therefore some of the requirement could not be prioritized since they were faults in the systems and performance issues. The Cost-Value Approach was used to prioritized 11 high level functional requirements, and the prioritization effort was done by project members who did the pairwise comparison for each criteria.  Finally, the requirements were categorized into three categories: high, medium and low priority. </br>
 
 ###**Personal Impression and Experience** </br>
 The paper describes the problem clearly and the argument is logical and well researched. The definition of CVA is simple and easy to understand and follow. The AHP is little bit difficult because it requires a lot of math to understand but it is described thoroughly and the reason to choose it is logical.
