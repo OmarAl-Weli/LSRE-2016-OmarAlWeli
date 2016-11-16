@@ -169,15 +169,40 @@ This paper provide the results of empirical study that involves semi structured 
 ###**Personal Impression and Experience**</br>
 The paper was very informative of how to conduct a qualitative research and of the companies handle quality requirements in general. This paper descibed every steps in details, therefore it made easy to understand and follow.
 
+
 ###**Paper 5**</br>
 
-J. Karlsson, K. Ryan, “A cost-value approach for prioritizing requirements”, IEEE Software, 1997.</br>
+J. Karlsson, K. Ryan, “A cost-value approach for prioritizing requirements”, IEEE Software, 1997. </br>
 
 ####**Overview**</br>
 
-Although requirement prioritisation is an important aspect of any successfull software engineering effort, requirment prioritisation and selection is mostly done informally and ad-hoc. Therefore in this paper, a requirements prioritisation tool is developed. The tool allows requirements engineers to rank requirements in two dimension: value to customers and cost of implementaion. Finally, the tool is applied successfully in two commercial telecom companies projects.
+Although requirement prioritization is an important aspect of any successful software engineering effort, requirement prioritization and selection is mostly done informally and ad-hoc. Therefore, in this paper, a requirements prioritization tool is developed. The tool allows requirements engineers to rank requirements in two dimension: value to customers and cost of implementation. Finally, the tool is applied successfully in two commercial telecoms companies’ projects.
 
-####**Tool 
+####**Tool and Process** </br>
+
+For a prioritizing tool to work, it must be easy to use and fast while its output must be accurate otherwise it will not be used. In addition, the tool should make stakeholder’s satisfaction as the ultimate goal and the guiding theme.
+The tool records the relative value and costs of requirements and not the absolutes numbers. Value to customers is calculated in terms of a requirements contribution to a customer’s satisfaction. While cost is calculated in terms of the cost of successfully implementing the requirement. Therefore, the tool use the Analysis Hierarchy Process or AHP to investigate possible requirements.
+The Cost Value Approach prioritize requirements using five steps:
+1.	Requirements are reviewed by requirement engineers for completeness and clarity.
+2.	Requirement’s cost and value are estimated by users and customers by applying the AHP’s pairwise comparison.
+3.	Repeat step two but this time, experience software engineers do the estimate instead of users and customers
+4.	AHP is used to calculate each requirement relative cost and value by software engineers and a cost-value diagram is plotted.
+5.	The diagram mentioned in step four is used as conceptual map for stakeholders to analyze and discuss candidate requirements.
+
+####**Results and Validation** </br>
+
+The Cost Value Approach is validated in industry in two case studies:
+
+**Case Study 1** </br>
+The CVA was used instead of a previous approach that the author used and found ineffective. 14 requirements were ultimate chosen to be prioritized. Customers were represented by experience project members, while actual experienced software engineer represented experienced software engineers. The participant worked in groups of two, the work was not moderated and discussion was allowed. After that value and cost distribution, as well the consistency indices and ratios, were calculated and plotted.
+Finally, the requirements were categorized in three categories: high, medium and low priority. Based on this and cost-value diagram, software managers were able to accurately prioritized and select requirements.
+**Case Study 2** </br>
+The second case study was done on 4th release of an already deployed product, therefore some of the requirement could not be prioritized since they were faults in the systems and performance issues. The Cost-Value Approach was used to prioritized 11 high level functional requirements, and the prioritization effort was done by project members who did the pairwise comparison for each criteria.  Finally, the requirements were categorized into three categories: high, medium and low priority. 
+
+###**Personal Impression and Experience** </br>
+The paper describes the problem clearly and the argument is logical and well researched. The definition of CVA is simple and easy to understand and follow. The AHP is little bit difficult because it requires a lot of math to understand but it is described thoroughly and the reason to choose it is logical.
+
+
 
 ###**References**
 
