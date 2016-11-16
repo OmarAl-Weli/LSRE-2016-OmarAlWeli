@@ -169,6 +169,16 @@ This paper provide the results of empirical study that involves semi structured 
 ###**Personal Impression and Experience**</br>
 The paper was very informative of how to conduct a qualitative research and of the companies handle quality requirements in general. This paper descibed every steps in details, therefore it made easy to understand and follow.
 
+###**Paper 5**</br>
+
+J. Karlsson, K. Ryan, “A cost-value approach for prioritizing requirements”, IEEE Software, 1997.</br>
+
+####**Overview**</br>
+
+Although requirement prioritisation is an important aspect of any successfull software engineering effort, requirment prioritisation and selection is mostly done informally and ad-hoc. Therefore in this paper, a requirements prioritisation tool is developed. The tool allows requirements engineers to rank requirements in two dimension: value to customers and cost of implementaion. Finally, the tool is applied successfully in two commercial telecom companies projects.
+
+####**Tool 
+
 ###**References**
 
 [1]Gorschek, Tony, and Alan M. Davis. "Requirements engineering: In search of the dependent variables." Information and Software Technology 50.1 (2008): 67-75.</br>
