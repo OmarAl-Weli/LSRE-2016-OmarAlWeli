@@ -169,7 +169,7 @@ This paper provide the results of empirical study that involves semi structured 
  The study finds that there no major difference between B2B and B2C companies in terms of why quality requirements are dismissed.
  
 ###**Personal Impression and Experience**</br>
-The paper was very informative of how to conduct a qualitative research and of the companies handle quality requirements in general. This paper descibed every steps in details, therefore it made easy to understand and follow.
+The paper was very informative of how to conduct a qualitative research and of the companies handle quality requirements in general. This paper descibed every steps in details, therefore it made easy to understand and follow. The method was logical, well argued and methodical/repeateable. 
 
 
 ###**Paper 5**</br>
@@ -197,7 +197,8 @@ The Cost Value Approach is validated in industry in two case studies:
 
 **Case Study 1** </br>
 The CVA was used instead of a previous approach that the author used and found ineffective. 14 requirements were ultimate chosen to be prioritized. Customers were represented by experience project members, while actual experienced software engineer represented experienced software engineers. The participant worked in groups of two, the work was not moderated and discussion was allowed. After that value and cost distribution, as well the consistency indices and ratios, were calculated and plotted.
-Finally, the requirements were categorized in three categories: high, medium and low priority. Based on this and cost-value diagram, software managers were able to accurately prioritized and select requirements.
+Finally, the requirements were categorized in three categories: high, medium and low priority. Based on this and cost-value diagram, software managers were able to accurately prioritized and select requirements. </br>
+
 **Case Study 2** </br>
 The second case study was done on 4th release of an already deployed product, therefore some of the requirement could not be prioritized since they were faults in the systems and performance issues. The Cost-Value Approach was used to prioritized 11 high level functional requirements, and the prioritization effort was done by project members who did the pairwise comparison for each criteria.  Finally, the requirements were categorized into three categories: high, medium and low priority. </br>
 
