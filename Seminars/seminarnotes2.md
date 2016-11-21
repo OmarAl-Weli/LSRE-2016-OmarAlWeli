@@ -52,5 +52,31 @@ Software product management cover three issues: requirements, products and relea
  1.	Portfolio Management: making decision about the products the company owns
  2.	Product Road-mapping: using scientific and technological resources to create long term plan for products.
  3.	Requirement Management: eliciting requirement from different sources, specifying, identifying and revising them, while keeping track of dependencies, core assets, product lines and release themes.
- 4.	Release Planning: prioritizing requirements, constructing and validating release requirements document and scope management.
+ 4.	Release Planning: prioritizing requirements, constructing and validating release requirements document and scope management. </br>
+ 
+###**Paper 4**   </br>
+
+Wnuk et al. “Are You Biting Off More Than You Can Chew? A Case Study on Causes and Effects of Overscoping in Large-Scale Software Engineering”
+
+####**Overview**</br>
+
+In Market Driven Requirement Engineering or MDRE, scope management is very important as it is easy to over-scope, therefore this paper conduct a case study to understand over-scoping in market driver software engineering and how agile requirement engineering affect it.
+Semi structured interview were carried based on hypothesis of which factors are involved in over-scoping, which resulted of detailed understanding and analysis of over-scoping and the possible impact of agile practices on this issue. </br>
+
+####**Problem**</br>
+
+Scoping or project scoping is a complex process of managing large number requirements which are continuously growing, while keeping track of market shift and changes and the impact of these requirements and changes on the code base of the product. Furthermore, in market driven software engineering, product managers have to factor competition and the unpredictability of the market. </br>
+Software product manager also face the challenge of a product changing its scope during the development which can be attributed to over-scoping i.e. setting a scope that require higher resources than the company has. </br>
+Agile development processes solve some the of issues that come with scoping however, these practices introduce new challenges such as satisfying all stakeholders and creating accurate plans for an entire project. </br>
+
+####**Solution**</br>
+
+To solve the problems mentioned in the previous section, the author of the paper conducted a case study with the goal of understanding the factor that are involved in over-scoping. To achieve the authors formulated three research questions:
+1.	What are the causes of over-scoping?
+2.	What are the resulting effect of over-scoping? 
+3.	How may agile process impact the causes and effects of over-scoping?
+The study consisted of semi structured interviews of nine practitioners who are working in requirement engineering, software development and testing from a large market driven software development company that has started to shift to an agile way of working. </br>
+
+####**Results**</br>
+
 
