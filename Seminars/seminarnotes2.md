@@ -68,15 +68,53 @@ Semi structured interview were carried based on hypothesis of which factors are 
 Scoping or project scoping is a complex process of managing large number requirements which are continuously growing, while keeping track of market shift and changes and the impact of these requirements and changes on the code base of the product. Furthermore, in market driven software engineering, product managers have to factor competition and the unpredictability of the market. </br>
 Software product manager also face the challenge of a product changing its scope during the development which can be attributed to over-scoping i.e. setting a scope that require higher resources than the company has. </br>
 Agile development processes solve some the of issues that come with scoping however, these practices introduce new challenges such as satisfying all stakeholders and creating accurate plans for an entire project. </br>
-
 ####**Solution**</br>
 
-To solve the problems mentioned in the previous section, the author of the paper conducted a case study with the goal of understanding the factor that are involved in over-scoping. To achieve the authors formulated three research questions:
+To solve the problems mentioned in the previous section, the author of the paper conducted a case study with the goal of understanding the factor that are involved in over-scoping. To achieve this the authors formulated three research questions:
 1.	What are the causes of over-scoping?
 2.	What are the resulting effect of over-scoping? 
 3.	How may agile process impact the causes and effects of over-scoping?
-The study consisted of semi structured interviews of nine practitioners who are working in requirement engineering, software development and testing from a large market driven software development company that has started to shift to an agile way of working. </br>
+
+Furthermore, the case study was divided the into three phases:
+
+**Phase one **</br>
+
+The first phase purpose was to prepare for the interviews and to formulate hypothesis from the experience of one of the author on the factor of over-scoping and its effects on the project as a whole. Thus, the author hypothesized five factors that causes over-scoping:
+1.	Continuous requirements inflow via multiple channels.
+2.	No overview of software resource availability.
+3.	Low development team involvement in early phases.
+4.	Requirement not agreed with the development team.
+5.	Detailed requirements specification is produced upfront. </br>
+
+**Phase two **</br>
+
+The second phase of the study consisted of semi structured interviews of nine practitioners who are working in requirement engineering, software development and testing from a large market driven software development company that has started to shift to an agile way of working. The hypothesis provided framework but was not imposed on interviewee by making the discussion open ended. </br>
+
+**Phase three** </br>
+
+To validate the results from the interviews, a questionnaire was conducted of six additional practitioners from the same company. The participants were asked to state to which degree or disagree with the results, and to add any missed items. </br>
 
 ####**Results**</br>
 
+The result of the interviews was collected and categorized in the form of answers to the research questions:
+
+ **1. Causes of overs-coping** </br>
+All the interviewees in addition to agreeing or experiencing with the challenges of over-scoping, a majority of them agreed or experienced with the causes hypothesized in phase one of the case study. Furthermore, no interviewee disagreed to any of these causes, although causes four and five had less than agreed or experienced responses.
+Finally, a six cause were derived from the first five interviews which is “unclear vision of overall goal” </br>
+
+ **2. Effects of over-scoping** </br>
+  Six effects of over-scoping were derived from the interview:
+  1.	Many requirements change after the project scope is set.
+  2.	Quality issues.
+  3.	Delays.
+  4.	Customer expectations are not met.
+  5.	Communication gaps.
+  6.	Challenge to keep the software requirement specification updated. </br>
+
+ **3.	How agile requirement engineering practices may impact over-scoping** </br>
+  The study identifies that three of those agile practices that are being introduced might impact one or several of the causes of over-scoping. The practices are:
+  1.	One continues scope and release plan flow
+  2.	Cross functional development teams
+  3.	Gradual and iterative requirements detailing
+Additionally, three more practices were suggested by the questionnaire participant that will address over-scoping. </br>
 
