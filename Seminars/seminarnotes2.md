@@ -77,7 +77,7 @@ To solve the problems mentioned in the previous section, the author of the paper
 
 Furthermore, the case study was divided the into three phases:
 
-**Phase one **</br>
+**Phase one**</br>
 
 The first phase purpose was to prepare for the interviews and to formulate hypothesis from the experience of one of the author on the factor of over-scoping and its effects on the project as a whole. Thus, the author hypothesized five factors that causes over-scoping:
 1.	Continuous requirements inflow via multiple channels.
@@ -86,7 +86,7 @@ The first phase purpose was to prepare for the interviews and to formulate hypot
 4.	Requirement not agreed with the development team.
 5.	Detailed requirements specification is produced upfront. </br>
 
-**Phase two **</br>
+**Phase two *</br>
 
 The second phase of the study consisted of semi structured interviews of nine practitioners who are working in requirement engineering, software development and testing from a large market driven software development company that has started to shift to an agile way of working. The hypothesis provided framework but was not imposed on interviewee by making the discussion open ended. </br>
 
@@ -98,12 +98,12 @@ To validate the results from the interviews, a questionnaire was conducted of si
 
 The result of the interviews was collected and categorized in the form of answers to the research questions:
 
- **1. Causes of overs-coping** </br>
+ **1. Causes of over-scoping** </br>
 All the interviewees in addition to agreeing or experiencing with the challenges of over-scoping, a majority of them agreed or experienced with the causes hypothesized in phase one of the case study. Furthermore, no interviewee disagreed to any of these causes, although causes four and five had less than agreed or experienced responses.
 Finally, a six cause were derived from the first five interviews which is “unclear vision of overall goal” </br>
 
  **2. Effects of over-scoping** </br>
-  Six effects of over-scoping were derived from the interview:
+Six effects of over-scoping were derived from the interview:
   1.	Many requirements change after the project scope is set.
   2.	Quality issues.
   3.	Delays.
@@ -113,8 +113,73 @@ Finally, a six cause were derived from the first five interviews which is “unc
 
  **3.	How agile requirement engineering practices may impact over-scoping** </br>
   The study identifies that three of those agile practices that are being introduced might impact one or several of the causes of over-scoping. The practices are:
-  1.	One continues scope and release plan flow
-  2.	Cross functional development teams
-  3.	Gradual and iterative requirements detailing
+  1.	One continues scope and release plan flow.
+  2.	Cross functional development teams.
+  3.	Gradual and iterative requirements detailing.
 Additionally, three more practices were suggested by the questionnaire participant that will address over-scoping. </br>
+
+###**Paper 5**   </br>
+
+Wnuk et al. “Factors Affecting Decision Outcome and Lead-time in Large-Scale Requirements Engineering”
+
+####**Overview**</br>
+
+This paper is a retrospective study at a large scale software manufacturer. To investigate the factors that affect decision lead-time. By analyzing 1439 change requests looking for statistically significant relationships between the decision making factors
+The results of the retrospective study were also investigated more by surveying practitioners in industry to understand relationships among decisions. </br>
+
+####**Research Goals**</br>
+
+ 1.	Validating the results of the decision log analysis in a survey
+ 2.	Extending the analysis of the results regarding factors that affect the decision lead-time and the relationship between the decision lead-time and the decision outcome.
+ 3.	Extending the analysis of related work.
+ 4.	Extending the interpretation of the results in the light of the related work.
+ 
+The author of the paper run statistical tests on empirical data to either accept or reject hypotheses and draw conclusions based on the test results. The results of the statistical analysis were further validated in a survey and interpreted in relation to related studies. </br>
+
+####**Method**</br>
+
+Case study and survey methods were selected for conducting this study. </br>
+
+**Case Study:**
+The authors of this paper used the analysis of electronic databases of work performed technique (Lethbridge et al 2005) for data collection as it is a suitable technique for analyzing large amounts of data.
+Furthermore, they were granted access to an extensive decision log of all products planned to be released in 2008 containing 1439 change requests. </br>
+Five variables were created for each decision:
+1.	Lead-Time.
+2.	Number of Products Affected.
+3.	Release Number.
+4.	Type of Customer.
+5.	Decision Outcome. </br>
+
+**Survey:** </br>
+A survey among 50 respondents from industry was conducted to validate the results from the case study as well as to strengthen the external validity of the study. </br>
+
+**Case study analysis:** </br>
+The choice of the right statistical test is dependent on three major factors, namely (Sheskin 2004):
+1.	The level of measurement of the variables.
+2.	The distribution of the data.
+3.	The hypotheses that will be tested.
+Five different decision characteristics were analyzed, which were all translated to quantitative, analyzable variables. </br>
+
+**Survey analysis:** </br>
+The case study revealed that in the calculated medians that are measured at least half of the samples have identified a negative relationship. When the median is positive, at least half of the samples in the study have identified a positive relationship. </br>
+
+**Subjects:** </br>
+The survey was answered by 50 respondents. 32% of the respondents came from the Netherlands, 14% from Sweden and 46% came from other countries, including US and UK. 
+The majority of the respondents (68%) worked with companies, in which up to 100 persons were involved in the software engineering process. </br>
+
+####**Results**</br>
+The results of the study is categorized in the form of answers to the research questions and the hypothesis:
+**1.	Which decision characteristics affect the decision lead-time?** </br>
+When the number of products affected by a decision increases, the lead-time needed to take the decision increases as well. Since the correlation coefficient is rather low, the number of products may not be the only variable influencing the lead-time.
+The results of the survey show a positive relationship between the decision lead-time and the number of products affected by the decision, the concordance between the results from the decision log analysis and the survey could be interpreted as an indication that more complex investigations take more time Effect of a certain release number on the decision lead-time. </br>
+
+**2.	Which decision characteristics affect the decision outcome?** </br>
+From the results the authors concluded that there is a high likelihood the two groups are derived from different populations or more precisely, the rejected decisions have a lower number of products they affect.
+Also, a significant relationship was also discovered between the number of products affected by a decision and the decision lead-time. Furthermore, there is a relationship between the decision complexity, the decision outcome and time needed to take a decision in the case company.
+Finally, the survey results disprove the statistical analysis of the decision log since 54.8% of the respondents answered that a high number of products affected by the decision increases the probability of rejection, and the majority of the survey respondents indicated that the importance of the customer that issues the request decreases the probability of rejection, in other words increases the probability of acceptance. </br>
+
+**3.	Is the decision outcome related to the decision lead-time?**</br>
+Based on these results, the average lead-time needed to reject a decision is statistically significantly longer than the lead-time needed to accept a decision.
+Additionally, when looking at the survey results we see that 57.1% of the respondents indicated that the time to make the decision does not influence the decision outcome. </br>
+
 
