@@ -35,6 +35,52 @@ The author of this paper devised five scope tracking measurements with the goal 
   3.	Number of state changes per feature.
   4.	Time to birth.
   5.	Reason for scoping decision.
+  
+------------------------------------------------------------------
+  
+###**Paper 2** </br>
+
+Wnuk & Gorschek “Obsolete Software Requirements” </br>
+
+####**Overview** </br>
+
+Continuous requirement’s change and customer’s need results in requirements obsolescence; thus this paper investigate the phenomenon of obsolete requirements through an empirical study. Furthermore, this paper defines obsolete requirements, study how they are handled in industry and their impact.
+
+####**Problem** </br>
+
+Due to rapid change in business environment and fierce completion, requirements that become obsolete before the project completion can have huge impact on software project.
+Time to market pressure and deadlines can make early and predefined requirement obsolete immediately after their creation. Furthermore, in Market Driven Requirement Engineering or MDRE, the number of incoming requirements is large and the pace of change is high, therefore software companies have to identify obsolete requirements rapidly which can threaten effective requirement management. Additionally, obsolete requirement can lead to project delays or in some cases failure, and Identifying them is not enough, handling and removing them early is crucial.
+
+####**Solution** </br>
+
+The author of this paper conduct an empirical study of 219 participants, who answered a questionnaire that contained 15 open and close-ended questions of different formats. The questionnaire served to answer the research questions.
+
+**Research questions and answers**  </br>
+
+ 1.	What is the definition of obsolete requirements? </br>
+“An obsolete software requirement is a software requirement (implemented or not) that is no longer required for the current release or future releases and, for various reasons, has little or no business value for the potential customers or users of a software product.” [1] </br>
+
+ 2.	What is the impact of obsolete requirements? </br> 
+The impact of obsolete requirements is serious or somehow serious according to 84.3% of the respondent of the questionnaire, furthermore the type of requirement engineering context had a minimal influence on the results. </br>
+
+ 3.	Does requirement type effect the probability of a requirement being obsolete? </br>
+The answers of the questionnaire were categorized by the author and the category that received the category that had the most obsolete requirements, are incorrect/misunderstood requirements followed by inconsistent and ambiguous requirements. </br>
+
+ 4.	What methods are available to identify obsolete requirements? </br>
+50% of the respondent pointed to manual methods, while 13.29% indicated that there is a predefined obsolete status for requirements, furthermore, 11.19% chose the category of “I never found them or I never thought of finding them”. Finally, only 10% indicated the existence of any sort of automation tools. </br>
+
+ 5.	When are obsolete requirements are identified and how are they handled in industry? </br>
+60% of respondent assigned obsolete status to inappropriate or obsolete requirements, while 21.9% of the respondent suggested to put obsolete requirements in a separate requirements document. </br>
+
+ 6.	What context factors influence obsolete requirements? </br>
+The first factor is project size i.e. the bigger the project the more it negatively impacted by obsolete requirements. </br>
+The second factor is project type, with outsourced project being the most likely to be affected. </br>
+
+ 7.	Where in the requirement life cycle should obsolete requirements be handled? </br>
+The result of the questionnaire, is that obsolete requirements should be handled in during the requirement analysis, requirement validation and requirement changes phases. </br>
 
 
+##**References**
+
+[1] Wnuk & Gorschek “Obsolete Software Requirements”
 
